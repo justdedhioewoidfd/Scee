@@ -1,0 +1,82 @@
+{
+	"__class": "ScreenList",
+	"screens": [
+		{
+			"__class": "Screen",
+			"type": "in-game",
+			"startTime": 1626952594.246869,
+			"endTime": 1626952780.710869,
+			"theme": "tournament",
+			"mapName": "SeptemberALT",
+			"schedule": {
+				"type": "probability",
+				"theme": "RegularTournament",
+				"occurance": {
+					"next": 1626952304817.8691,
+					"prev": null
+				}
+			}
+		},
+		{
+			"__class": "Screen",
+			"type": "waiting-screen",
+			"startTime": 1626952780.710869,
+			"endTime": 1626952800.710869,
+			"theme": "tournament",
+			"mapName": "SeptemberALT",
+			"waitingScreenInfo": {
+				"__class": "WaitingScreenInfo",
+				"getRecapTime": 1626952793.710869
+			},
+			"schedule": {
+				"type": "probability",
+				"theme": "RegularTournament",
+				"occurance": {
+					"next": 1626952304817.8691,
+					"prev": null
+				}
+			}
+		},
+		{
+			"__class": "Screen",
+			"type": "tournament-recap",
+			"startTime": 1626952800.710869,
+			"endTime": 1626952842.710869,
+			"theme": "tournament",
+			"mapName": "SeptemberALT",
+			"tournamentInfo": {
+				"__class": "TournamentScreenInfo",
+				"tournamentType": "default",
+				"tournamentLogo": "https://jd-s3.akamaized.net/public/wdf/tournament/Regular_tournament_cup/c3236d5d336c2cb59f8d72d4aec6c3fd.png",
+				"roundNumber": 2,
+				"playListSize": 3,
+				"rewards": [
+					{
+						"type": "skin",
+						"value": 48
+					},
+					{
+						"type": "skin",
+						"value": 49
+					},
+					{
+						"type": "skin",
+						"value": 50
+					},
+					{
+						"type": "mojo",
+						"value": 700
+					}
+				]
+			},
+			"schedule": {
+				"type": "probability",
+				"theme": "RegularTournament",
+				"occurance": {
+					"next": 1626952304817.8691,
+					"prev": null
+				}
+			}
+		}
+	]
+}

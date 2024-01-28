@@ -1,0 +1,156 @@
+{
+  "__class": "HomeService::HomeData",
+  "tileList": [
+    {
+      "__class": "HomeService::HomeTile",
+      "type": 0,
+      "mapTileInfo": {
+        "__class": "HomeService::MapTileInfo",
+        "mapName": "Sun",
+        "type": 3
+      },
+      "creationTime": 1627335643396,
+      "new": 1
+    },
+    {
+      "__class": "HomeService::HomeTile",
+      "type": 8,
+      "offlineGenTileInfo": {
+        "targetType": "news",
+        "targetSubType": "SkuTips"
+      },
+      "creationTime": 1627335643400,
+      "new": 1,
+      "locked": false,
+      "lockDuration": 0
+    },
+    {
+      "__class": "HomeService::HomeTile",
+      "type": 8,
+      "offlineGenTileInfo": {
+        "targetType": "news",
+        "targetSubType": "SkuTips"
+      },
+      "creationTime": 1627335643405,
+      "new": 1,
+      "locked": false,
+      "lockDuration": 0
+    },
+    {
+      "__class": "HomeService::HomeTile",
+      "type": 8,
+      "offlineGenTileInfo": {
+        "targetType": "news",
+        "targetSubType": "SkuTips"
+      },
+      "creationTime": 1627335643407,
+      "new": 1,
+      "locked": false,
+      "lockDuration": 0
+    },
+    {
+      "__class": "HomeService::HomeTile",
+      "type": 7,
+      "locked": 1,
+      "lockPosition": 4,
+      "creationTime": 1627335643391,
+      "new": 1
+    },
+    {
+      "__class": "HomeService::HomeTile",
+      "type": 8,
+      "offlineGenTileInfo": {
+        "targetType": "news",
+        "targetSubType": "SkuTips"
+      },
+      "creationTime": 1627335643413,
+      "new": 1,
+      "locked": false,
+      "lockDuration": 0
+    },
+    {
+      "__class": "HomeService::HomeTile",
+      "type": 1,
+      "playlistTileInfo": {
+        "__class": "HomeService::PlaylistTileInfo",
+        "type": 0,
+        "playlistID": "GurlPowa"
+      },
+      "creationTime": 1627335643403,
+      "new": 1,
+      "locked": false,
+      "lockDuration": 0
+    },
+    {
+      "__class": "HomeService::HomeTile",
+      "type": 8,
+      "offlineGenTileInfo": {
+        "targetType": "news",
+        "targetSubType": "SkuTips"
+      },
+      "creationTime": 1627335643415,
+      "new": 1,
+      "locked": false,
+      "lockDuration": 0
+    },
+    {
+      "__class": "HomeService::HomeTile",
+      "type": 0,
+      "mapTileInfo": {
+        "__class": "HomeService::MapTileInfo",
+        "mapName": "Sun",
+        "type": 3
+      },
+      "creationTime": 1627335643411,
+      "new": 1,
+      "locked": false,
+      "lockDuration": 0
+    },
+    {
+      "__class": "HomeService::HomeTile",
+      "type": 2,
+      "creationTime": 1590943101386,
+      "locked": false,
+      "new": true,
+      "lockDuration": 0,
+      "contentExpiry": 0,
+      "uuid": "00000000-0000-0000-0000-000000000000",
+      "newsTileInfo": {
+        "__class": "HomeService::NewsTileInfo",
+        "type": 8,
+        "title": "",
+        "text": "",
+        "imageUrl": "",
+        "winnerPid": "00000000-0000-0000-0000-000000000000",
+        "winnerPlatform": "",
+        "winnerName": "",
+        "winnerNameSuffix": 0,
+        "winnerCountry": 4294967295,
+        "winnerAvatar": 4294967295,
+        "winnerAlias": 4294967295,
+        "offlineNewID": "Right hand"
+      }
+    },
+    {
+      "__class": "HomeService::HomeTile",
+      "type": 0,
+      "creationTime": 1590943627,
+      "locked": false,
+      "new": false,
+      "lockDuration": 0,
+      "contentExpiry": 0,
+      "uuid": "00000000-0000-0000-0000-000000000000",
+      "mapTileInfo": {
+        "__class": "HomeService::MapTileInfo",
+        "type": 6,
+        "mapName": "SangriaWine"
+      }
+    }
+  ],
+  "timestampLastRequest": 1627335643,
+  "timestampLastManualContent": 1573134300,
+  "timestampLastMapContent": 0,
+  "timestampLastVideoContent": 0,
+  "timestampLastPlaylistContent": 0,
+  "timestampLastLocalTrack": 1508112000
+}
