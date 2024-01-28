@@ -1,0 +1,267 @@
+{
+	"name": "JustNateo",
+	"nickname": "Nateo",
+	"avatar": 376,
+	"country": 8498,
+	"skin": 1,
+	"jdPoints": 51089,
+	"diamondPoints": 99,
+	"progression": {
+		"CONTEXT_ADVENTURE_2017": 0.300000,
+		"CONTEXT_DANCE_MACHINE_2017": 1,
+		"CONTEXT_FAMILY_2017": 5.018182,
+		"CONTEXT_JDTV_2017": 0.165000,
+		"CONTEXT_ONLINE_2017": 0.480000,
+		"CONTEXT_SWEAT_2017": 0.187496,
+		"CONTEXT_UPLAY_2017": 0.812500,
+		"CONTEXT_WDF_2017": 0.400000
+	},
+	"history": {
+		"AllAboutUs": 419,
+		"Bailar": 657,
+		"Bang": 762,
+		"Bicicleta": 671,
+		"Bonbon": 773,
+		"CakeByTheOcean": 711,
+		"CakeByTheOceanALT": 516,
+		"CantFeelMyFace": 635,
+		"CheapThrills": 679,
+		"ColaSong": 670,
+		"ColaSongALT": 518,
+		"Daddy": 702,
+		"DaddyALT": 531,
+		"DontStopMe": 763,
+		"DontStopMeALT": 362,
+		"DragosteaDinTei": 645,
+		"ElTiki": 724,
+		"ElTikiALT": 525,
+		"ElectroMambo": 742,
+		"FireOnTheDancefloor": 770,
+		"GhostInTheKeys": 784,
+		"Groove": 765,
+		"Hips": 706,
+		"HipsALT": 559,
+		"ILoveRock": 741,
+		"IntoYou": 698,
+		"JumpMaLa": 771,
+		"KungFunk": 736,
+		"LastChristmas": 772,
+		"LeanOn": 774,
+		"LeanOnALT": 560,
+		"Leila": 681,
+		"LikeIWould": 705,
+		"LittleSwing": 714,
+		"NaeNae": 718,
+		"NaeNaeALT": 561,
+		"Oishii": 710,
+		"PoPiPo": 703,
+		"Radical": 766,
+		"RadicalALT": 513,
+		"RedMangoose": 768,
+		"RunTheNight": 767,
+		"Samba": 721,
+		"ScreamNShout": 743,
+		"ScreamNShoutALT": 417,
+		"ScreamNShoutMU": 636,
+		"September": 688,
+		"SeptemberALT": 530,
+		"SingleLadies": 680,
+		"Sorry": 725,
+		"SorryALT": 805,
+		"TeDominar": 704,
+		"TicoTico": 701,
+		"Titanium": 652,
+		"WhatIsLove": 662,
+		"WhatIsLoveALT": 216,
+		"WhereverIGo": 700,
+		"WilliamTell": 740,
+		"WorthIt": 745
+	},
+	"favorites": ["DontStopMe", "Leila", "AllAboutUs"],
+	"scores": {
+		"AllAboutUs": {
+			"highest": 10817
+		},
+		"Bailar": {
+			"highest": 11888
+		},
+		"Bang": {
+			"highest": 11233
+		},
+		"Bicicleta": {
+			"highest": 10459
+		},
+		"Bonbon": {
+			"highest": 12208
+		},
+		"CakeByTheOcean": {
+			"highest": 11233
+		},
+		"CakeByTheOceanALT": {
+			"highest": 12156
+		},
+		"CantFeelMyFace": {
+			"highest": 12321
+		},
+		"CheapThrills": {
+			"highest": 12760
+		},
+		"ColaSong": {
+			"highest": 11778
+		},
+		"ColaSongALT": {
+			"highest": 11820
+		},
+		"Daddy": {
+			"highest": 12585
+		},
+		"DaddyALT": {
+			"highest": 9980
+		},
+		"DontStopMe": {
+			"highest": 11420
+		},
+		"DontStopMeALT": {
+			"highest": 10976
+		},
+		"DragosteaDinTei": {
+			"highest": 11188
+		},
+		"ElTiki": {
+			"highest": 9755
+		},
+		"ElTikiALT": {
+			"highest": 12244
+		},
+		"ElectroMambo": {
+			"highest": 12138
+		},
+		"FireOnTheDancefloor": {
+			"highest": 13125
+		},
+		"GhostInTheKeys": {
+			"highest": 11929
+		},
+		"Groove": {
+			"highest": 11300
+		},
+		"Hips": {
+			"highest": 11620
+		},
+		"HipsALT": {
+			"highest": 11347
+		},
+		"ILoveRock": {
+			"highest": 12103
+		},
+		"IntoYou": {
+			"highest": 11834
+		},
+		"JumpMaLa": {
+			"highest": 12012
+		},
+		"KungFunk": {
+			"highest": 6626
+		},
+		"LastChristmas": {
+			"highest": 11164
+		},
+		"LeanOn": {
+			"highest": 12522
+		},
+		"LeanOnALT": {
+			"highest": 11498
+		},
+		"Leila": {
+			"highest": 12682
+		},
+		"LikeIWould": {
+			"highest": 12120
+		},
+		"LittleSwing": {
+			"highest": 10346
+		},
+		"NaeNae": {
+			"highest": 11003
+		},
+		"NaeNaeALT": {
+			"highest": 10659
+		},
+		"Oishii": {
+			"highest": 11925
+		},
+		"PoPiPo": {
+			"highest": 12342
+		},
+		"Radical": {
+			"highest": 12084
+		},
+		"RadicalALT": {
+			"highest": 12276
+		},
+		"RedMangoose": {
+			"highest": 11662
+		},
+		"RunTheNight": {
+			"highest": 12377
+		},
+		"Samba": {
+			"highest": 11193
+		},
+		"ScreamNShout": {
+			"highest": 11011
+		},
+		"ScreamNShoutALT": {
+			"highest": 9221
+		},
+		"ScreamNShoutMU": {
+			"highest": 11291
+		},
+		"September": {
+			"highest": 11103
+		},
+		"SeptemberALT": {
+			"highest": 12369
+		},
+		"SingleLadies": {
+			"highest": 10973
+		},
+		"Sorry": {
+			"highest": 10985
+		},
+		"SorryALT": {
+			"highest": 0
+		},
+		"TeDominar": {
+			"highest": 12128
+		},
+		"TicoTico": {
+			"highest": 12276
+		},
+		"Titanium": {
+			"highest": 12113
+		},
+		"WhatIsLove": {
+			"highest": 11919
+		},
+		"WhatIsLoveALT": {
+			"highest": 11030
+		},
+		"WhereverIGo": {
+			"highest": 11433
+		},
+		"WilliamTell": {
+			"highest": 9814
+		},
+		"WorthIt": {
+			"highest": 11039
+		}
+	},
+	"unlockedAvatars": [23, 33, 51, 52, 67, 72, 73, 77, 78, 80, 90, 97, 99, 115, 118, 127, 131, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 239, 308, 309, 310, 311, 312, 313, 314, 315, 345, 346, 347, 353, 357, 360, 362, 364, 368, 369, 370, 371, 372, 373, 374, 375, 376, 378, 380, 381, 387, 388, 389, 478, 479, 480, 481, 498, 499, 504, 505, 506, 507, 516, 517, 518, 519, 520, 522, 524, 525, 527, 528, 529, 539, 541, 542, 543, 544, 545, 546, 547, 550, 551, 552, 553, 554, 555, 556, 557, 559, 561, 566, 569, 570, 571, 572, 574, 575, 576, 577, 578, 579, 580, 581, 582, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 2, 4, 9, 14, 17, 22, 26, 30, 36, 42, 44, 47, 50, 55, 60, 69, 79, 81, 86, 88, 92, 103, 110, 132, 138, 152, 154, 164, 203, 206, 224, 247, 252, 254, 275, 282, 284, 296, 339, 393, 395, 397, 401, 403, 407, 409, 415, 420, 422, 424, 426, 428, 430, 432, 435, 440, 442, 444, 446, 457, 459, 461, 467, 471, 475, 503, 511, 513, 536, 601, 614, 624, 630, 635, 643, 682, 840, 3, 10, 18, 25, 43, 49, 54, 66, 70, 74, 87, 102, 189, 242, 249, 276, 297, 340, 344, 358, 394, 398, 402, 406, 410, 414, 419, 423, 427, 431, 441, 445, 474, 488, 615, 646, 681, 712, 5, 41, 68, 105, 139, 155, 220, 251, 361, 391, 400, 416, 425, 433, 460, 472, 491, 617, 625, 16, 45, 98, 166, 274, 291, 404, 421, 439, 456, 476, 497, 515, 28, 84, 355, 396, 429, 468, 693, 58, 412],
+	"unlockedSkins": [1, 2, 3, 4, 5, 7, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, 22, 23, 25, 26, 27, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 40, 41, 42, 47, 51, 52, 53, 54, 55, 70, 71, 75, 76, 77, 78, 79, 86, 48],
+	"wdfRank": 1,
+	"stars": 0,
+	"unlocks": 14,
+	"songsPlayed": 0,
+	"platformId": ""
+}
